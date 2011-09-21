@@ -5,7 +5,7 @@ import std.array;
 
 void main()
 {
-	int secim = 0;
+	//int secim = 0;
 	
 	do
 	{
