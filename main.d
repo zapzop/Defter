@@ -5,7 +5,7 @@ import std.array;
 
 void main()
 {
-	//int secim = 0;
+	int secim = 0;
 	
 	do
 	{
@@ -81,6 +81,7 @@ void KayitDuzenle()
 	system("PAUSE");
 }
 
+/*
 void KayitSil()
 {
 	system("CLS");
@@ -93,7 +94,7 @@ void KayitSil()
 	writeln("\nBilgiler silindi.");
 	system("PAUSE");
 }
-
+*/
 void KayitListele()
 {
 	system("CLS");
